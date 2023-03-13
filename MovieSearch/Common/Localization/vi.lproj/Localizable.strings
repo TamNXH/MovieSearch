@@ -1,0 +1,21 @@
+/* 
+ Localizable.strings
+ JenaStore
+ 
+ Created by Quang Thao on 13/10/2022.
+ 
+ */
+
+// MARK: - Button
+"buttonSignIn" = "ĐĂNG NHẬP";
+
+// MARK: - TextField
+"textFieldEmail" = "Email";
+"textFieldpassword" = "PassWord";
+
+// MARK: - Alert
+"alertError" = "Error";
+"alertSuccess" = "Success";
+"alertOk" = "OK";
+
+
